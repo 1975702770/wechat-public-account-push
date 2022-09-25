@@ -65,13 +65,13 @@ f37fda2cbb23cce6f870608953a926c3
   USERS: [
     {
       // 想要发送的人的名字
-      name: '老婆0',
-      // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
+      姓名：'郭雅0'，
+      // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台可以看到
       id: ocbtI60c1EWMCjgYfV6sIw7gZaic
       // 你想对他发送的模板消息的模板ID
       useTemplateId: fKn8Rw9zJtAySj2FU9-k4kh2dNc1QKxJTuyGMxBqBl0
       // 所在省份
-      省份：'洛阳
+      号：洛阳
       // 所在城市
       城市：嵩县
       // 新历生日,仅绘制星座运势,格式必须
